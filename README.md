@@ -1,6 +1,6 @@
 # Digital Systems
 
-This repository contains course materials for the Digital Logic Circuits course. The course is designed to provide a solid understanding of the basic concepts in modern digital system design, with a focus on digital logic circuits.
+This repository contains Digital Systems projects. The course is designed to provide a solid understanding of the basic concepts in modern digital system design, with a focus on digital logic circuits.
 
 Course Overview:
 - Basic logic circuits and Boolean algebra
