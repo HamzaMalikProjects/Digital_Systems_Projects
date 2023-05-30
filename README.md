@@ -1,8 +1,8 @@
 # Digital Systems
 
-This repository contains Digital Systems projects. The course is designed to provide a solid understanding of the basic concepts in modern digital system design, with a focus on digital logic circuits.
+This repository contains Digital Systems projects. Provides a solid understanding of the basic concepts in modern digital system design, with a focus on digital logic circuits.
 
-Course Overview:
+Overview:
 - Basic logic circuits and Boolean algebra
 - Implementation technologies, from transistors to CPLDs and FPGAs
 - Logic functions optimization and implementation
@@ -11,7 +11,7 @@ Course Overview:
 - Synchronous and asynchronous sequential circuits
 - Introduction to control unit data path and CPU operations
 - CAD Tools and Hands-on Experience
-- The course computer-aided design (CAD) tools, including the use of hardware description language (HDL) for design entry. Practical experience in using these tools to design and simulate basic digital circuits. The implementation and testing of simple digital systems using LSI and CPLD technologies is also explored.
+- computer-aided design (CAD) tools, including the use of hardware description language (VHDL) for design entry. Practical experience in tools to design and simulate basic digital circuits. The implementation and testing of simple digital systems using LSI and CPLD technologies is also explored.
 
 Repository Structure:
 - This repository contains the following files and folders
@@ -23,4 +23,4 @@ License:
 - The content in this repository is provided under the MIT License, unless otherwise specified. Please review the license file for more details.
 
 Acknowledgements:
-- We would like to express our gratitude to the educators and researchers who have contributed to the development of this course. Their expertise and dedication have made this learning resource possible.
+- We would like to express our gratitude to the educators and researchers who have contributed to the development of this course. Their expertise and dedication have made this learning resource possible. 
